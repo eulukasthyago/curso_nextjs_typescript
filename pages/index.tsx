@@ -11,7 +11,7 @@ function Home({ posts }:InferGetStaticPropsType<typeof getStaticProps>) {
   return (
     <>
       <Head>
-        <title>Create Next App</title>
+        <title>Hello world from my blog</title>
       </Head>
 
       <main>

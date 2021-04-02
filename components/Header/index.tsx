@@ -4,7 +4,7 @@ export default function Header() {
     return(
         <header className={styles.container}>
             <h1 className={styles.title}>
-                Olá Mundo!
+                Hello Word!
           </h1>
         </header>
     )
